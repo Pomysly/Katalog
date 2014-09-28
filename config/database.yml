@@ -25,4 +25,4 @@ production:
   encoding: unicode
   database: spreecommerceprod
   pool: 5
-  password:  
+  password:
